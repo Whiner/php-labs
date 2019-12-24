@@ -1,0 +1,20 @@
+.main-table {
+    border: #143791 2px solid;
+}
+
+td {
+    border: #143791 1px solid;
+    color: #5b565a;
+}
+
+.city-name {
+    color: #143791;
+    font-size: 20px;
+    margin: 0;
+}
+
+.weather {
+    color: #143791;
+    font-size: 20px;
+    margin: 0;
+}
